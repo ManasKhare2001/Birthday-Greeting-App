@@ -1,6 +1,6 @@
 # Birthday-Greeting-App
 
-First Interface : User just have to enter his/her name and press on the submit button.
+First Interface : Here, User just have to enter his/her name and press on the submit button.
 
 ![Screenshot (431)](https://user-images.githubusercontent.com/79192605/119714412-77cdcf00-be80-11eb-9c07-3bfaa911db92.png)
 
