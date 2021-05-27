@@ -1,6 +1,5 @@
 # Birthday-Greeting-App
 • An android application that consists of birthday wishes, photos, social media etc which makes it a perfect android application gift for your loved ones.
-
 • Display birthday wishes collected from the back end.
 
 First Interface : Here, User just have to enter his/her name and press on the submit button.
